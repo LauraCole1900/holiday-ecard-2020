@@ -1,0 +1,10 @@
+.container {
+  position: relative;
+  transform: translateY(30%);
+  font-family: 'Nothing You Could Do', cursive;
+}
+
+.wishing {
+  color:#ffffcc;
+  transform: translateY(30%);
+}
