@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/holiday-ecard-2020/static/css/main.db014e9f.chunk.css",
+    "main.js": "/holiday-ecard-2020/static/js/main.6e47cc4c.chunk.js",
+    "main.js.map": "/holiday-ecard-2020/static/js/main.6e47cc4c.chunk.js.map",
+    "runtime-main.js": "/holiday-ecard-2020/static/js/runtime-main.abed63a9.js",
+    "runtime-main.js.map": "/holiday-ecard-2020/static/js/runtime-main.abed63a9.js.map",
+    "static/js/2.037064ca.chunk.js": "/holiday-ecard-2020/static/js/2.037064ca.chunk.js",
+    "static/js/2.037064ca.chunk.js.map": "/holiday-ecard-2020/static/js/2.037064ca.chunk.js.map",
+    "static/js/3.23004c58.chunk.js": "/holiday-ecard-2020/static/js/3.23004c58.chunk.js",
+    "static/js/3.23004c58.chunk.js.map": "/holiday-ecard-2020/static/js/3.23004c58.chunk.js.map",
+    "index.html": "/holiday-ecard-2020/index.html",
+    "static/css/main.db014e9f.chunk.css.map": "/holiday-ecard-2020/static/css/main.db014e9f.chunk.css.map",
+    "static/js/2.037064ca.chunk.js.LICENSE.txt": "/holiday-ecard-2020/static/js/2.037064ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abed63a9.js",
+    "static/js/2.037064ca.chunk.js",
+    "static/css/main.db014e9f.chunk.css",
+    "static/js/main.6e47cc4c.chunk.js"
+  ]
+}
