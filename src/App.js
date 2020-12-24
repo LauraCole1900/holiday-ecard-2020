@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import Confetti from "react-confetti";
 import Snowfall from "react-snowfall";
 import StarrySky from "./components/starry-sky";

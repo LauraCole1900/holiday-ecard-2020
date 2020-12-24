@@ -1,10 +1,54 @@
+h1 {
+  font-size: 72px;
+}
+
+h2 {
+  font-size: 42px;
+}
+
 .container {
   color:#ffffcc;
   position: relative;
-  transform: translateY(30%);
+  transform: translateY(5%);
   font-family: 'Nothing You Could Do', cursive;
 }
 
 .wishing {
-  transform: translateY(30%);
+  transform: translateY(10%);
+}
+
+.holiday {
+  text-align: center;
+}
+
+.anda {
+  text-align: right;
+}
+
+.red {
+  color: red;
+}
+
+.orange {
+  color: orange;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
+
+.purple {
+  color: blueviolet;
+}
+
+.yellowgreen {
+  color: yellowgreen;
 }
