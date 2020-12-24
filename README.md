@@ -15,7 +15,7 @@
 
   ## Description
 
-  This is a simple little React-based "Happy Holidays" animation using the react-reveal library, react-bootstrap, and the react-confetti node module.
+  This is a simple little React-based "Happy Holidays" animation using the Twinkling Night Sky animation by Sharna Hossain,react-simple-animate, react-bootstrap, react-confetti, and react-snowfall.
 
   ## Screenshot
 
@@ -32,7 +32,7 @@
 
   ## Technologies Used
 
-  Node.js, React, react-reveal, React-Bootstrap, react-confetti
+  Node.js, React, react-simple-animate, React-Bootstrap, react-confetti, react-snowfall
 
   ## Tests
 
@@ -40,7 +40,7 @@
 
   ## Credits
 
-  N/A
+  Twinkling Night Sky animation by Sharna Hossain can be found on CodePen [here](https://codepen-staging.com/sharnajh/pen/WNvppRy)
 
   ## Contributing
 
