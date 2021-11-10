@@ -37,7 +37,7 @@ This project is intended to be used to wish you "happy holidays."
 
 ## Technologies Used
 
-Node.js, React, react-simple-animate, React-Bootstrap, react-confetti, react-snowfall
+[![Node.js](https://img.shields.io/badge/built%20with-Node.js-3c873a)](https://nodejs.org/en/) [![React](https://img.shields.io/badge/built%20with-React-61dbfb)](https://reactjs.org/) [![React-Bootstrap](https://img.shields.io/badge/built%20with-React%20Bootstrap-61dbfb)](https://react-bootstrap.github.io/) [![React-confetti](https://img.shields.io/badge/built%20with-React%20Confetti-cc3534)](https://www.npmjs.com/package/react-confetti) [![React-simple-animate](https://img.shields.io/badge/built%20with-React%20Confetti-27243f)](https://www.npmjs.com/package/react-simple-animate) [![React-snowfall](https://img.shields.io/badge/built%20with-React%20Snowfall-cc3534)](https://www.npmjs.com/package/react-snowfall)
 
 ## Tests
 
@@ -57,4 +57,4 @@ If you have further questions, you can reach me at lauracole1900@comcast.net. Fo
 
 ## Badges
 
-![License badge](https://img.shields.io/badge/license-MIT-008000)[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LauraCole1900/holiday-ecard-2020)
+[![License badge](https://img.shields.io/badge/license-MIT-008000)](./LICENSE) [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/LauraCole1900/holiday-ecard-2020)
